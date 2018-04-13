@@ -1,5 +1,5 @@
 # 在CSDN学习爬虫
-从[CSDN](https://www.csdn.net)  [Jack-Cui](https://csdn.net/c406495762)处学习
+从[CSDN](https://www.csdn.net)  [Jack-Cui](https://my.csdn.net/c406495762)处学习
 
 ## urllib_test
 `initial:`利用urllib进行简单的网页抓取<br>
