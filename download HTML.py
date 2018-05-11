@@ -5,7 +5,6 @@ Created on Fri Mar  2 16:39:42 2018
 @author: zhangliangkai
 """
 
-import itertools
 import urllib
 import re
 
