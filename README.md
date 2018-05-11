@@ -10,4 +10,10 @@
 `initial:`利用urllib.urlopen向有道翻译发送数据获得翻译结果
 
 ## beautifulsoup
-`initial:`使用Beautiful Soup爬取小说
+`initial:`尝试Beautiful Soup
+
+## beautifulsoup_novel
+使用Beautiful Soup在爬取[笔趣看小说-一念永恒](http://www.biqukan.com/1_1094/)
+
+## 01package
+01背包问题解法及相关问题尝试
