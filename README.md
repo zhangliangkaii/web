@@ -13,7 +13,7 @@
 `initial:`尝试Beautiful Soup
 
 ## beautifulsoup_novel
-使用Beautiful Soup在爬取[笔趣看小说-一念永恒](http://www.biqukan.com/1_1094/)
+`initial:`使用Beautiful Soup在爬取[笔趣看小说-一念永恒](http://www.biqukan.com/1_1094/)
 
 ## 01package
-01背包问题解法及相关问题尝试
+`initial:`01背包问题解法及相关问题尝试
